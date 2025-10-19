@@ -1,7 +1,7 @@
 # yuto-horigome-skate-analysis
 Analysis of Yuto Horigome's competitive strategy using public data.
 ---
-# 🛹 堀米雄斗の「勝負強さ」の解剖：データが示す極限下のパフォーマンス
+# 🛹 堀米雄斗の「勝負強さ」：データが示す極限下のパフォーマンス
 
 このリポジトリは、堀米雄斗選手（ストリートスケートボード）のオリンピック決勝における試技データを定量的に分析し、**極限状況における精神力と戦略**を可視化したポートフォリオです。
 
