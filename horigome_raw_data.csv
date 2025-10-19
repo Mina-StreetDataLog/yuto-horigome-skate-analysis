@@ -1,4 +1,3 @@
-大会名,フェーズ,日付,最終順位,合計点,試技タイプ,試技回数,全体順序,獲得点数,試技後合計得点,トリック名,障害物詳細,成否,トリック難易度,試技前の順位,試技後の順位,試技前暫定一位得点,試技前１位選手名,逆転必要点,失敗後のトライ
 competition_name,phase,date,final_rank,total_score,try_type,try_number,absolute_try_order,score,score_after_try,trick_name,obstacle_detail,success_fail,trick_difficulty,rank_before_try,rank_after_try,leader_total_score_before_try,leader_name,score_for_top,try_after_fail
 Olympic Games Paris 2024,final,2024-07-29,1,281.14,run,1,1,89.90,89.90,N/A,Course Flow ,SUCCESS,,N/A,2,90.11,Sora Shirai,0.21,FALSE
 Olympic Games Paris 2024,final,2024-07-29,1,281.14,run ,2,2,68.54,89.90,N/A,Course Flow ,SUCCESS,,2,4,93.37,Nyjah Huston,3.47,FALSE
